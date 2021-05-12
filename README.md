@@ -30,7 +30,7 @@ $pkg install git
 
 $pkg install mc
 
-$ git clone https://github.com/hydra-tools/masslooker.git
+$ git clone https://github.com/hydra-tools/masslooker.git 
 
 $ cd masslooker
 
