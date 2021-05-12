@@ -1,7 +1,7 @@
 # masslooker
 This is a Instagram automation tool to view thousands of stories with in minutes. Without getting action block.
 Author credits : nthanfp Modified by @hydra.technologies Follow on Instagram https://instagram.com/hydra.technologies?igshid=17dkcfd0r7zi7
-#fiture
+# Features
 •Views Stories
 
 •Question Answer
