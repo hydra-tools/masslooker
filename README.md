@@ -9,7 +9,7 @@ Author credits : nthanfp Modified by @hydra.technologies Follow on Instagram htt
 •Poll Voting
 
 •Emoji Slider
-#usage
+# usage
 •Unlimited real followers
 
 •Unlimited real likes
@@ -18,7 +18,7 @@ Author credits : nthanfp Modified by @hydra.technologies Follow on Instagram htt
 
 •Incredible reach
 
-#installation
+# installation
 
 MassLooker requires PHP 5.6 to run.
 
